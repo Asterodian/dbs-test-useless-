@@ -1,7 +1,17 @@
 [
   {
-    "username": "demo",
-    "password": "12345",
-    "expire_at": 10
+    "username": "admin",
+    "password": "vestiazeta",
+    "expire_at": 9999999999
+  },
+  {
+    "username": "pejuangkkm",
+    "password": "kkmno1",
+    "expire_at": 1730860800
+  },
+  {
+    "username": "fathurganteng",
+    "password": "rastutzy",
+    "expire_at": 1730860800
   }
 ]
