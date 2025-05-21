@@ -3,7 +3,7 @@
     "username": "admin_account",
     "password": "admin123",
     "subscription": "premium",
-    "time": 25
+    "time": 25,
     "expired": false
   }
 ]
