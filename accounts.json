@@ -1,14 +1,8 @@
 [
   {
-    "username": "PEMBURU_KKM",
-    "password": "KKMNO1"
-  },
-  {
     "username": "admin_account",
-    "password": "admin123"
-  },
-   {
-    "username": "fathurganteng",
-    "password": "rastutzy"
+    "password": "admin123",
+    "subscription": "premium",
+    "time": 180
   }
 ]
