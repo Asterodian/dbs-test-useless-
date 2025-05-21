@@ -1,16 +1,9 @@
 [
   {
-    "username": "PEMBURU_KKM",
-    "password": "KKMNO1",
+    "username": "dummy",
+    "password": "dummy",
     "subscription": "member",
-    "time": 86400,
-    "expired": false
-  },
-  {
-    "username": "admin_account",
-    "password": "admin123",
-    "subscription": "premium",
-    "time": 86400,
+    "time": 25,
     "expired": false
   }
 ]
