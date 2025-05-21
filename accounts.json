@@ -1,9 +1,7 @@
 [
   {
-    "username": "dummy",
-    "password": "dummy",
-    "subscription": "member",
-    "time": 25,
-    "expired": false
+    "username": "demo",
+    "password": "12345",
+    "expire_at": 10
   }
 ]
